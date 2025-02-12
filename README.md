@@ -1,1 +1,1 @@
-# Special-Project-on-Application-Acceleration-with-High-Level-Synthesis
+# Application-Acceleration-with-High-Level-Synthesis
